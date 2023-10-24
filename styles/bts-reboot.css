@@ -9,3 +9,34 @@ img {
 .fz-22 {
     font-size: 22px;
 }
+
+.fz-50 {
+    font-size: 50px;
+}
+
+.fz-60 {
+    font-size: 60px;
+}
+
+.fz-24 {
+    font-size: 24px;
+}
+
+.btn-size {
+    width: 250px;
+    height: 67px;
+}
+
+.phone-number {
+    background-color: #75BF7A;
+    margin: 0;
+    height: 166px;
+}
+
+.f-color {
+    color: #75BF7A;
+}
+
+.f-width {
+    max-width: 500px;
+}
