@@ -3,12 +3,6 @@
     padding-bottom: 2.4rem;
 }
 
-/* @media (min-width: 576px) {
-    .navbar-expand-lg .navbar-nav {
-        flex-direction: row;
-    }
-} */
-
 .btn-success {
     background-color: #75BF7A;
     border-color: transparent;
@@ -25,7 +19,7 @@
 
 .form-control::placeholder {
     color: #DADADA;
-  }
+}
 
 .card-text {
     width: 400px;
