@@ -13,7 +13,7 @@
 }
 
 .form-control {
-    width: 500px;
+    max-width: 500px;
     height: 67px;
 }
 
@@ -21,6 +21,8 @@
     color: #DADADA;
 }
 
-.card-text {
-    width: 400px;
-}
+@media (max-width: 770px) {
+    .form-control {
+        width: 250px;
+    }
+  }
