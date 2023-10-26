@@ -42,7 +42,7 @@ img {
 .phone-number {
     background-color: #75BF7A;
     margin: 0;
-    height: 166px;
+    min-height: 166px;
 }
 
 .f-color {
